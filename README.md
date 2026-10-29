@@ -1,4 +1,4 @@
-# CareerLens AI
+# careerlens-ai
 
 CareerLens AI is a learning-project MVP for exploring resume feedback and career next steps. It is an educational tool, not a hiring system, a guarantee of employment, or professional career advice.
 
